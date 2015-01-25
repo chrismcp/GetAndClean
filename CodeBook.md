@@ -1,8 +1,8 @@
 ## Codebook for Get and Clean Data class Project 1-25-2015
 
- ## All fields after the first 2 are documented by original authors 
- ## and refer to means and standard deviations. All fields are the
- ## average (mean) for the particular subject and activity.
+All fields after the first 2 are documented by original authors 
+and refer to means and standard deviations. All fields are the
+average (mean) for the particular subject and activity.
  
 ## FIELD : : : : DEFINITION
  subject : : : : : : : : : : ID of tester or trainer                             
