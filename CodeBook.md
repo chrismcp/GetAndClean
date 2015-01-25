@@ -1,12 +1,15 @@
-# Codebook for Get and Clean Data class Project 1-25-2015
+## Codebook for Get and Clean Data class Project 1-25-2015
 
-## field                       Definition 
+ ### All fields after the first 2 are documented by original authors 
+ ### and refer to means and standard deviations. All fields are the
+ ### average (mean) for the particular subject and activity.
  
- subject                       : ID of tester or trainer                             
- activity                      : activity being measured
- tBodyAcc-mean()-X             : remaining fields are documented      
- tBodyAcc-mean()-Y             :   by original authors & refer to means
- tBodyAcc-mean()-Z             :   and standard deviations 
+## FIELD : : : : : : : : : : DEFINITION
+ subject : : : : : : : : : : ID of tester or trainer                             
+ activity : : : : : : : : : :activity being measured
+ tBodyAcc-mean()-X             
+ tBodyAcc-mean()-Y             
+ tBodyAcc-mean()-Z             
  tGravityAcc-mean()-X             
  tGravityAcc-mean()-Y             
  tGravityAcc-mean()-Z             
